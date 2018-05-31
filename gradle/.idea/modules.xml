@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hovo.iml" filepath="$PROJECT_DIR$/.idea/modules/hovo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hovo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hovo_main.iml" group="hovo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hovo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hovo_test.iml" group="hovo" />
+    </modules>
+  </component>
+</project>
